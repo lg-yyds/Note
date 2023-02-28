@@ -34,7 +34,7 @@ bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShe
 
 新
 
-bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 11 -v 64 -p 密码 -port 端口 -a -firmware
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/lg-yyds/Note/master/InstallNET.sh') -d 11 -v 64 -p 密码 -port 端口 -a -firmware
 
 
 PS:如果你是腾讯云记得卸载组件 否则会导致报错 DD失败
